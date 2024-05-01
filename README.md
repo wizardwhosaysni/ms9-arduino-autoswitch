@@ -9,7 +9,7 @@ https://forum.arcadeotaku.com/viewtopic.php?t=6623
 http://forum.arcadecontrols.com/index.php?topic=149090.0
 - FreqCount Library :  
 https://www.pjrc.com/teensy/td_libs_FreqCount.html
-- Theretrobristolian's wiki page :
+- Theretrobristolian's wiki page :  
 https://wiki.arcadeotaku.com/w/User:Theretrobristolian/MS9-29
 
 Work in progress
